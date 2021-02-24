@@ -1,0 +1,3 @@
+com\javatechie\spring\soap\api\config\SoapConfig.class
+com\javatechie\spring\soap\api\clinet\SoapClinet.class
+com\javatechie\spring\soap\api\SpringBootSopaWsClientApplication.class
